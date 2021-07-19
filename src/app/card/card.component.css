@@ -1,0 +1,17 @@
+.postCard {
+    background-color: whitesmoke;
+    color:white;;
+    font-size: 23px;
+  }
+  
+  .postCardHead {
+    background-color:gray;
+    padding: 12px 24px;
+    margin: 0;
+  }
+  .cardIntro {
+    font-size: 22px;
+    color: darkslategrey;
+    padding: 15px;
+  }
+  

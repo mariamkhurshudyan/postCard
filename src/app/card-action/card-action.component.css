@@ -1,0 +1,23 @@
+.cardClose {
+  position: absolute;
+  top: 90px;
+  right: center;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.postCard {
+  position: absolute;
+  inset: 0;
+  margin: 350px;
+}
+.aboutCard {
+  margin: auto;
+  background-color:darkslategrey;
+  color: white;
+  text-align: center;
+  padding: 60px 30px;
+}
+
+
